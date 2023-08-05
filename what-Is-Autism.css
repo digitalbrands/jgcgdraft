@@ -1,0 +1,1278 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/group-kids-friends-arm-around-sitting-together1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 683px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 364px auto 221px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 563px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 431px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 323px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 203px;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/caucasian-preschool-girl-smiling-stacking-multi-colored-blocks-generated-by-ai.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 2452px;
+}
+
+.u-section-2 .u-group-1 {
+  width: 822px;
+  min-height: 2377px;
+  height: auto;
+  margin: 33px 24px 0 auto;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 30px 28px;
+}
+
+.u-section-2 .u-text-1 {
+  margin-bottom: 0;
+  margin-top: 0;
+  font-weight: 700;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: -1445px 858px 0 auto;
+  padding: 12px 81px 14px 80px;
+}
+
+.u-section-2 .u-btn-2 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 7px 854px 0 auto;
+  padding: 13px 48px 13px 47px;
+}
+
+.u-section-2 .u-btn-3 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 7px 861px 0 auto;
+  padding: 13px 27px 13px 26px;
+}
+
+.u-section-2 .u-btn-4 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: -215px 861px 0 auto;
+  padding: 12px 71px 14px 70px;
+}
+
+.u-section-2 .u-btn-5 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: 175px 856px 0 auto;
+  padding: 12px 33px 13px;
+}
+
+.u-section-2 .u-btn-6 {
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: -1112px 857px 0 auto;
+  padding: 12px 81px 14px 80px;
+}
+
+.u-section-2 .u-btn-7 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 7px 853px 0 auto;
+  padding: 13px 48px 13px 47px;
+}
+
+.u-section-2 .u-btn-8 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 7px 860px 0 auto;
+  padding: 13px 27px 13px 26px;
+}
+
+.u-section-2 .u-btn-9 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: -215px 860px 0 auto;
+  padding: 12px 71px 14px 70px;
+}
+
+.u-section-2 .u-btn-10 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: 175px 855px 2037px auto;
+  padding: 12px 33px 13px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 2857px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 611px;
+    min-height: 2834px;
+    margin-top: 8px;
+    margin-right: 0;
+    height: auto;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: -925px;
+    margin-right: 657px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-right: 653px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-right: 660px;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-right: 660px;
+  }
+
+  .u-section-2 .u-btn-5 {
+    margin-right: 655px;
+  }
+
+  .u-section-2 .u-btn-6 {
+    margin-top: -1985px;
+    margin-right: 657px;
+  }
+
+  .u-section-2 .u-btn-7 {
+    margin-right: 653px;
+  }
+
+  .u-section-2 .u-btn-8 {
+    margin-right: 660px;
+  }
+
+  .u-section-2 .u-btn-9 {
+    margin-right: 660px;
+  }
+
+  .u-section-2 .u-btn-10 {
+    margin-right: 655px;
+    margin-bottom: 2391px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 2671px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 726px;
+    min-height: 2632px;
+    margin-right: -25px;
+    margin-bottom: -543px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: -1357px;
+    margin-right: 437px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-right: 433px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-right: 440px;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-right: 440px;
+  }
+
+  .u-section-2 .u-btn-5 {
+    margin-right: 435px;
+  }
+
+  .u-section-2 .u-btn-6 {
+    margin-top: -1997px;
+    margin-right: 487px;
+  }
+
+  .u-section-2 .u-btn-7 {
+    margin-right: 483px;
+  }
+
+  .u-section-2 .u-btn-8 {
+    margin-right: 490px;
+  }
+
+  .u-section-2 .u-btn-9 {
+    margin-right: 490px;
+  }
+
+  .u-section-2 .u-btn-10 {
+    margin-right: 485px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 2972px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 540px;
+    margin-right: 0;
+    margin-bottom: -830px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-right: 257px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-right: 253px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-right: 260px;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-right: 260px;
+  }
+
+  .u-section-2 .u-btn-5 {
+    margin-right: 255px;
+  }
+
+  .u-section-2 .u-btn-6 {
+    margin-right: 307px;
+  }
+
+  .u-section-2 .u-btn-7 {
+    margin-right: 303px;
+  }
+
+  .u-section-2 .u-btn-8 {
+    margin-right: 310px;
+  }
+
+  .u-section-2 .u-btn-9 {
+    margin-right: 310px;
+  }
+
+  .u-section-2 .u-btn-10 {
+    margin-right: 305px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 4337px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 340px;
+    margin-bottom: -266px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-right: 57px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-right: 53px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-right: 60px;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-right: 60px;
+  }
+
+  .u-section-2 .u-btn-5 {
+    margin-right: 55px;
+  }
+
+  .u-section-2 .u-btn-6 {
+    margin-right: 107px;
+  }
+
+  .u-section-2 .u-btn-7 {
+    margin-right: 103px;
+  }
+
+  .u-section-2 .u-btn-8 {
+    margin-right: 110px;
+  }
+
+  .u-section-2 .u-btn-9 {
+    margin-right: 110px;
+  }
+
+  .u-section-2 .u-btn-10 {
+    margin-right: 105px;
+  }
+} .u-section-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/boy-blue-shirt-smiles-while-holding-colorful-egg-surrounded-by-colorful-balls.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 1373px;
+}
+
+.u-section-3 .u-group-1 {
+  width: 746px;
+  min-height: 1310px;
+  height: auto;
+  margin: 30px auto 0 0;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 31px 30px 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 20px auto 0 30px;
+}
+
+.u-section-3 .u-btn-1 {
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: -800px 43px 0 auto;
+  padding: 12px 81px 14px 80px;
+}
+
+.u-section-3 .u-btn-2 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 7px 40px 0 auto;
+  padding: 13px 48px 13px 47px;
+}
+
+.u-section-3 .u-btn-3 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 7px 46px 0 auto;
+  padding: 13px 27px 13px 26px;
+}
+
+.u-section-3 .u-btn-4 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: -215px 46px 0 auto;
+  padding: 12px 71px 14px 70px;
+}
+
+.u-section-3 .u-btn-5 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: 175px 42px 540px auto;
+  padding: 12px 33px 13px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1660px;
+  }
+
+  .u-section-3 .u-group-1 {
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    width: 586px;
+    min-height: 1630px;
+    height: auto;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-top: -1507px;
+    margin-right: 21px;
+  }
+
+  .u-section-3 .u-btn-2 {
+    margin-right: 21px;
+  }
+
+  .u-section-3 .u-btn-3 {
+    margin-right: 21px;
+  }
+
+  .u-section-3 .u-btn-4 {
+    margin-right: 21px;
+  }
+
+  .u-section-3 .u-btn-5 {
+    margin-right: 21px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1489px;
+  }
+
+  .u-section-3 .u-group-1 {
+    min-height: 1444px;
+    margin-bottom: -151px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-right: 14px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-btn-2 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-btn-3 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-btn-4 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-btn-5 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1806px;
+  }
+
+  .u-section-3 .u-group-1 {
+    margin-bottom: -422px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 2795px;
+  }
+
+  .u-section-3 .u-group-1 {
+    margin-bottom: -266px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+} .u-section-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/baby-playing-with-colorful-ball.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 554px;
+}
+
+.u-section-4 .u-group-1 {
+  width: 611px;
+  min-height: 457px;
+  height: auto;
+  margin: 60px 0 0 auto;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px 30px 28px;
+}
+
+.u-section-4 .u-text-1 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-4 .u-btn-1 {
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: -322px 789px 0 auto;
+  padding: 12px 81px 14px 80px;
+}
+
+.u-section-4 .u-btn-2 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 7px 786px 0 auto;
+  padding: 13px 48px 13px 47px;
+}
+
+.u-section-4 .u-btn-3 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 7px 792px 0 auto;
+  padding: 13px 27px 13px 26px;
+}
+
+.u-section-4 .u-btn-4 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: -215px 792px 0 auto;
+  padding: 12px 71px 14px 70px;
+}
+
+.u-section-4 .u-btn-5 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: 175px 787px 62px auto;
+  padding: 12px 33px 13px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 559px;
+  }
+
+  .u-section-4 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-top: -310px;
+    margin-right: 657px;
+  }
+
+  .u-section-4 .u-btn-2 {
+    margin-right: 654px;
+  }
+
+  .u-section-4 .u-btn-3 {
+    margin-right: 660px;
+  }
+
+  .u-section-4 .u-btn-4 {
+    margin-right: 660px;
+  }
+
+  .u-section-4 .u-btn-5 {
+    margin-right: 655px;
+    margin-bottom: 50px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 545px;
+  }
+
+  .u-section-4 .u-group-1 {
+    min-height: 458px;
+    margin-top: 43px;
+    margin-bottom: -193px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-right: 437px;
+  }
+
+  .u-section-4 .u-btn-2 {
+    margin-top: 0;
+    margin-right: 434px;
+  }
+
+  .u-section-4 .u-btn-3 {
+    margin-top: 0;
+    margin-right: 440px;
+  }
+
+  .u-section-4 .u-btn-4 {
+    margin-top: 0;
+    margin-right: 440px;
+  }
+
+  .u-section-4 .u-btn-5 {
+    margin-top: 0;
+    margin-right: 435px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 514px;
+  }
+
+  .u-section-4 .u-group-1 {
+    margin-top: 20px;
+    margin-bottom: -470px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-right: 257px;
+  }
+
+  .u-section-4 .u-btn-2 {
+    margin-right: 254px;
+  }
+
+  .u-section-4 .u-btn-3 {
+    margin-right: 260px;
+  }
+
+  .u-section-4 .u-btn-4 {
+    margin-right: 260px;
+  }
+
+  .u-section-4 .u-btn-5 {
+    margin-right: 255px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 767px;
+  }
+
+  .u-section-4 .u-group-1 {
+    margin-bottom: -299px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-right: 57px;
+  }
+
+  .u-section-4 .u-btn-2 {
+    margin-right: 54px;
+  }
+
+  .u-section-4 .u-btn-3 {
+    margin-right: 60px;
+  }
+
+  .u-section-4 .u-btn-4 {
+    margin-right: 60px;
+  }
+
+  .u-section-4 .u-btn-5 {
+    margin-right: 55px;
+  }
+} .u-section-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/child-playing-with-balloons.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 877px;
+}
+
+.u-section-5 .u-group-1 {
+  width: 746px;
+  min-height: 820px;
+  height: auto;
+  margin: 23px auto 0 0;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px 16px 0;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 1px 14px 0;
+}
+
+.u-section-5 .u-text-2 {
+  margin: 48px 0 -27px;
+}
+
+.u-section-5 .u-btn-1 {
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: -588px 51px 0 auto;
+  padding: 12px 81px 14px 80px;
+}
+
+.u-section-5 .u-btn-2 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 7px 48px 0 auto;
+  padding: 13px 48px 13px 47px;
+}
+
+.u-section-5 .u-btn-3 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 7px 54px 0 auto;
+  padding: 13px 27px 13px 26px;
+}
+
+.u-section-5 .u-btn-4 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: -215px 54px 0 auto;
+  padding: 12px 71px 14px 70px;
+}
+
+.u-section-5 .u-btn-5 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: 175px 50px 328px auto;
+  padding: 12px 33px 13px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 949px;
+  }
+
+  .u-section-5 .u-group-1 {
+    width: 632px;
+    min-height: 911px;
+    height: auto;
+  }
+
+  .u-section-5 .u-btn-1 {
+    margin-top: -782px;
+    margin-right: 0;
+  }
+
+  .u-section-5 .u-btn-2 {
+    margin-right: 0;
+  }
+
+  .u-section-5 .u-btn-3 {
+    margin-right: 0;
+  }
+
+  .u-section-5 .u-btn-4 {
+    margin-right: 0;
+  }
+
+  .u-section-5 .u-btn-5 {
+    margin-top: 181px;
+    margin-right: 0;
+    margin-bottom: -114px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 946px;
+  }
+
+  .u-section-5 .u-group-1 {
+    min-height: 891px;
+    margin-bottom: -160px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1071px;
+  }
+
+  .u-section-5 .u-group-1 {
+    min-height: 1028px;
+    margin-bottom: -391px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1584px;
+  }
+
+  .u-section-5 .u-group-1 {
+    min-height: 1520px;
+    margin-bottom: -210px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+} .u-section-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/baby-playing-with-colorful-ball.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 684px;
+}
+
+.u-section-6 .u-group-1 {
+  width: 746px;
+  min-height: 548px;
+  height: auto;
+  margin: 20px 25px 0 auto;
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-6 .u-text-1 {
+  font-weight: 700;
+  margin: 31px 30px 0;
+}
+
+.u-section-6 .u-text-2 {
+  margin: 20px auto 0 30px;
+}
+
+.u-section-6 .u-btn-1 {
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: -393px 822px 0 auto;
+  padding: 12px 81px 14px 80px;
+}
+
+.u-section-6 .u-btn-2 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 7px 819px 0 auto;
+  padding: 13px 48px 13px 47px;
+}
+
+.u-section-6 .u-btn-3 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 7px 826px 0 auto;
+  padding: 13px 27px 13px 26px;
+}
+
+.u-section-6 .u-btn-4 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: -215px 826px 0 auto;
+  padding: 12px 71px 14px 70px;
+}
+
+.u-section-6 .u-btn-5 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: 175px 821px 0 auto;
+  padding: 12px 33px 13px;
+}
+
+.u-section-6 .u-layout-wrap-1 {
+  margin-top: 181px;
+  margin-bottom: 20px;
+}
+
+.u-section-6 .u-layout-cell-1 {
+  min-height: 259px;
+  background-position: 0% 0%;
+}
+
+.u-section-6 .u-container-layout-2 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-6 .u-icon-1 {
+  height: 65px;
+  width: 65px;
+  background-image: none;
+  margin: 34px auto 0;
+  padding: 12px;
+}
+
+.u-section-6 .u-text-3 {
+  margin: 7px 30px 0;
+}
+
+.u-section-6 .u-layout-cell-2 {
+  min-height: 259px;
+  background-position: 0% 0%;
+}
+
+.u-section-6 .u-container-layout-3 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-6 .u-icon-2 {
+  height: 65px;
+  width: 65px;
+  background-image: none;
+  margin: 34px auto 0;
+  padding: 12px;
+}
+
+.u-section-6 .u-btn-6 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  letter-spacing: 1px;
+  margin: 22px auto 0 71px;
+  padding: 0;
+}
+
+.u-section-6 .u-icon-3 {
+  padding: 12px;
+}
+
+.u-section-6 .u-layout-cell-3 {
+  min-height: 259px;
+  background-position: 0% 0%;
+}
+
+.u-section-6 .u-container-layout-4 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-6 .u-icon-4 {
+  height: 65px;
+  width: 65px;
+  background-image: none;
+  margin: 33px auto 0;
+  padding: 12px;
+}
+
+.u-section-6 .u-text-4 {
+  font-weight: 700;
+  margin: 29px 30px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 962px;
+  }
+
+  .u-section-6 .u-group-1 {
+    width: 553px;
+    min-height: 637px;
+    height: auto;
+  }
+
+  .u-section-6 .u-btn-1 {
+    margin-top: -538px;
+    margin-right: 642px;
+  }
+
+  .u-section-6 .u-btn-2 {
+    margin-right: 639px;
+  }
+
+  .u-section-6 .u-btn-3 {
+    margin-right: 646px;
+  }
+
+  .u-section-6 .u-btn-4 {
+    margin-right: 646px;
+  }
+
+  .u-section-6 .u-btn-5 {
+    margin-right: 641px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    margin-top: 328px;
+    margin-bottom: -256px;
+  }
+
+  .u-section-6 .u-icon-1 {
+    height: 54px;
+    width: 54px;
+    position: relative;
+  }
+
+  .u-section-6 .u-text-3 {
+    position: relative;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+
+  .u-section-6 .u-icon-2 {
+    position: relative;
+  }
+
+  .u-section-6 .u-btn-6 {
+    margin-left: 4px;
+  }
+
+  .u-section-6 .u-layout-cell-3 {
+    min-height: 214px;
+  }
+
+  .u-section-6 .u-icon-4 {
+    position: relative;
+  }
+
+  .u-section-6 .u-text-4 {
+    position: relative;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 909px;
+  }
+
+  .u-section-6 .u-btn-1 {
+    margin-top: 20px;
+    margin-right: 422px;
+  }
+
+  .u-section-6 .u-btn-2 {
+    margin-right: 419px;
+  }
+
+  .u-section-6 .u-btn-3 {
+    margin-right: 426px;
+  }
+
+  .u-section-6 .u-btn-4 {
+    margin-right: 426px;
+  }
+
+  .u-section-6 .u-btn-5 {
+    margin-right: 421px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: -5px;
+  }
+
+  .u-section-6 .u-icon-1 {
+    height: 57px;
+    width: 57px;
+    margin-top: 46px;
+  }
+
+  .u-section-6 .u-text-3 {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .u-section-6 .u-container-layout-3 {
+    padding-left: 16px;
+  }
+
+  .u-section-6 .u-btn-6 {
+    margin-left: 0;
+  }
+
+  .u-section-6 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 1376px;
+  }
+
+  .u-section-6 .u-group-1 {
+    width: 540px;
+    margin-right: 0;
+  }
+
+  .u-section-6 .u-btn-1 {
+    margin-top: -538px;
+    margin-right: 242px;
+  }
+
+  .u-section-6 .u-btn-2 {
+    margin-right: 239px;
+  }
+
+  .u-section-6 .u-btn-3 {
+    margin-right: 246px;
+  }
+
+  .u-section-6 .u-btn-4 {
+    margin-right: 246px;
+  }
+
+  .u-section-6 .u-btn-5 {
+    margin-right: 241px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    margin-bottom: -218px;
+  }
+
+  .u-section-6 .u-icon-1 {
+    height: 56px;
+    width: 56px;
+    margin-top: 34px;
+  }
+
+  .u-section-6 .u-text-3 {
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 258px;
+  }
+
+  .u-section-6 .u-container-layout-3 {
+    padding-left: 0;
+  }
+
+  .u-section-6 .u-icon-2 {
+    margin-top: 71px;
+  }
+
+  .u-section-6 .u-btn-6 {
+    margin-top: 20px;
+    margin-left: auto;
+  }
+
+  .u-section-6 .u-layout-cell-3 {
+    min-height: 182px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 1480px;
+  }
+
+  .u-section-6 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-6 .u-btn-1 {
+    margin-right: 42px;
+  }
+
+  .u-section-6 .u-btn-2 {
+    margin-right: 39px;
+  }
+
+  .u-section-6 .u-btn-3 {
+    margin-right: 46px;
+  }
+
+  .u-section-6 .u-btn-4 {
+    margin-right: 46px;
+  }
+
+  .u-section-6 .u-btn-5 {
+    margin-right: 41px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    margin-top: 31px;
+    margin-bottom: -44px;
+  }
+
+  .u-section-6 .u-icon-1 {
+    height: 55px;
+    width: 55px;
+  }
+
+  .u-section-6 .u-text-3 {
+    margin-left: 9px;
+    margin-right: 9px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 259px;
+  }
+}
