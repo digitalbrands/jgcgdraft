@@ -11,17 +11,17 @@
 }
 
 .u-section-1 .u-image-1 {
-  width: 643px;
+  width: 756px;
   height: 504px;
   margin: 58px auto 0 22px;
 }
 
 .u-section-1 .u-text-2 {
-  margin: -94px 80px 0 713px;
+  margin: -416px -20px 0 813px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin-top: 90px;
+  margin-top: 413px;
   margin-bottom: 8px;
 }
 
@@ -127,14 +127,14 @@
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-top: 22px;
-    margin-right: 34px;
-    margin-left: 559px;
+    margin-top: 21px;
+    margin-right: 234px;
+    margin-left: 359px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    margin-top: 28px;
-    margin-bottom: -323px;
+    margin-top: 29px;
+    margin-bottom: 19px;
   }
 
   .u-section-1 .u-icon-1 {
@@ -174,11 +174,15 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1511px;
+    min-height: 1012px;
   }
 
   .u-section-1 .u-text-1 {
     margin-right: 120px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 0;
   }
 
   .u-section-1 .u-text-2 {
@@ -189,7 +193,7 @@
 
   .u-section-1 .u-layout-wrap-1 {
     margin-top: 24px;
-    margin-bottom: 20px;
+    margin-bottom: -479px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -242,14 +246,15 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 15px;
-    margin-right: 178px;
-    margin-left: 15px;
+    width: 347px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    margin-top: 15px;
-    margin-bottom: -788px;
+    margin-top: 0;
+    margin-bottom: 32px;
   }
 
   .u-section-1 .u-icon-1 {
@@ -278,7 +283,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1187px;
+    min-height: 1186px;
   }
 
   .u-section-1 .u-image-1 {
@@ -290,14 +295,15 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 28px;
+    width: auto;
+    margin-top: 39px;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    margin-top: 22px;
-    margin-bottom: -435px;
+    margin-top: 11px;
+    margin-bottom: 28px;
   }
 
   .u-section-1 .u-icon-1 {
